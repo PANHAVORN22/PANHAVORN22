@@ -142,32 +142,23 @@ Python
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" align="center">
-
 <a href="https://github.com/PANHAVORN22">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PANHAVORN22&show_icons=true&hide_border=true&include_all_commits=true&card_width=420&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-    <img alt="GitHub stats for PANHAVORN22" width="100%" src="https://github-readme-stats.vercel.app/api?username=PANHAVORN22&show_icons=true&hide_border=true&include_all_commits=true&card_width=420&title_color=0969DA&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PANHAVORN22&show_icons=true&hide_border=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+    <img alt="GitHub stats for PANHAVORN22" width="437" src="https://github-readme-stats.vercel.app/api?username=PANHAVORN22&show_icons=true&hide_border=true&include_all_commits=true&title_color=0969DA&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
   </picture>
 </a>
 
-</td>
-<td width="50%" align="center">
+<br />
 
 <a href="https://github.com/PANHAVORN22">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PANHAVORN22&layout=compact&hide_border=true&langs_count=6&card_width=420&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-    <img alt="Most used languages for PANHAVORN22" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANHAVORN22&layout=compact&hide_border=true&langs_count=6&card_width=420&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PANHAVORN22&layout=compact&hide_border=true&langs_count=6&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+    <img alt="Most used languages for PANHAVORN22" width="437" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANHAVORN22&layout=compact&hide_border=true&langs_count=6&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
   </picture>
 </a>
 
-</td>
-</tr>
-</table>
-
-
+<br />
 
 <a href="https://github.com/PANHAVORN22">
   <picture>
