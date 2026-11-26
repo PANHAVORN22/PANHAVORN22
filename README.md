@@ -2,9 +2,9 @@
 
 # Ngoun Panhavorn
 
-**Panha** · Software Engineering student · Cambodia
+**Panha** · Cambodia
 
-[![Typing intro](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Software+Engineering+student+at+KIT;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase;Cybersecurity+and+pentesting)](https://github.com/PANHAVORN22)
+[![Typing intro](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=640&height=40&lines=Next.js+%C2%B7+TypeScript+%C2%B7+Supabase;Cybersecurity+and+pentesting)](https://github.com/PANHAVORN22)
 
 [Portfolio](https://panha-portfolio-beta.vercel.app) · [LinkedIn](https://www.linkedin.com/in/panha-vorn-601011427/) · [GitHub](https://github.com/PANHAVORN22)
 
@@ -12,19 +12,12 @@
 
 ## About
 
-I'm Panha, a Bachelor of Software Engineering student at Kirirom Institute of Technology (KIT) in Cambodia, 2024–2028. I build full-stack web apps with Next.js, TypeScript, and Supabase, deploy them on Vercel, and also write PHP, MySQL, and Python. I'm learning cybersecurity and penetration testing alongside the degree.
+I'm Panha. I build full-stack web apps with Next.js, TypeScript, and Supabase, deploy them on Vercel, and also write PHP, MySQL, and Python. I'm learning cybersecurity and penetration testing.
 
 ### Currently
 
-- Studying Software Engineering at KIT
 - Building web apps with Next.js, TypeScript, Supabase, and Vercel
 - Learning cybersecurity and penetration testing
-
-### Education
-
-| School | Program | Years |
-| --- | --- | --- |
-| Kirirom Institute of Technology, Cambodia | Bachelor of Software Engineering | 2024–2028 |
 
 ## Tech stack
 
