@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/141980642?v=4" width="112" alt="Ngoun Panhavorn" />
-
 # Ngoun Panhavorn
 
 **Panha** · Software Engineering student · Cambodia
@@ -71,7 +69,7 @@ Next.js · TypeScript · Supabase · Tailwind
 
 ### [Portfolio](https://github.com/PANHAVORN22/portfolio)
 
-Next.js personal site with an about section, project showcase, and contact. The link at the top of this page is the current portfolio.
+Next.js personal site with about, projects, and contact. The site linked at the top is the current one.
 
 Next.js · TypeScript · Tailwind
 
@@ -144,25 +142,37 @@ Python
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
 <a href="https://github.com/PANHAVORN22">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PANHAVORN22&show_icons=true&hide_border=true&include_all_commits=true&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-    <img alt="GitHub stats for PANHAVORN22" height="165" src="https://github-readme-stats.vercel.app/api?username=PANHAVORN22&show_icons=true&hide_border=true&include_all_commits=true&title_color=0969DA&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
-  </picture>
-</a>
-<a href="https://github.com/PANHAVORN22">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PANHAVORN22&layout=compact&hide_border=true&langs_count=6&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
-    <img alt="Most used languages for PANHAVORN22" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANHAVORN22&layout=compact&hide_border=true&langs_count=6&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PANHAVORN22&show_icons=true&hide_border=true&include_all_commits=true&card_width=420&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+    <img alt="GitHub stats for PANHAVORN22" width="100%" src="https://github-readme-stats.vercel.app/api?username=PANHAVORN22&show_icons=true&hide_border=true&include_all_commits=true&card_width=420&title_color=0969DA&icon_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
   </picture>
 </a>
 
-<br />
+</td>
+<td width="50%" align="center">
+
+<a href="https://github.com/PANHAVORN22">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PANHAVORN22&layout=compact&hide_border=true&langs_count=6&card_width=420&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" />
+    <img alt="Most used languages for PANHAVORN22" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PANHAVORN22&layout=compact&hide_border=true&langs_count=6&card_width=420&title_color=0969DA&text_color=24292F&bg_color=FFFFFF" />
+  </picture>
+</a>
+
+</td>
+</tr>
+</table>
+
+
 
 <a href="https://github.com/PANHAVORN22">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PANHAVORN22&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=58A6FF&sideLabels=8B949E&dates=8B949E&stroke=21262D" />
-    <img alt="Contribution streak for PANHAVORN22" height="165" src="https://streak-stats.demolab.com?user=PANHAVORN22&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideNums=24292F&currStreakNum=0969DA&sideLabels=57606A&dates=57606A&stroke=EAECEF" />
+    <img alt="Contribution streak for PANHAVORN22" width="420" src="https://streak-stats.demolab.com?user=PANHAVORN22&hide_border=true&background=FFFFFF&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideNums=24292F&currStreakNum=0969DA&sideLabels=57606A&dates=57606A&stroke=EAECEF" />
   </picture>
 </a>
 
@@ -171,7 +181,7 @@ Python
 <a href="https://github.com/PANHAVORN22">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=PANHAVORN22&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&title_color=58A6FF" />
-    <img alt="Contribution activity graph for PANHAVORN22" src="https://github-readme-activity-graph.vercel.app/graph?username=PANHAVORN22&hide_border=true&area=true&bg_color=FFFFFF&color=0969DA&line=0969DA&point=24292F&title_color=0969DA" />
+    <img alt="Contribution activity graph for PANHAVORN22" width="720" src="https://github-readme-activity-graph.vercel.app/graph?username=PANHAVORN22&hide_border=true&area=true&bg_color=FFFFFF&color=0969DA&line=0969DA&point=24292F&title_color=0969DA" />
   </picture>
 </a>
 
